@@ -20,7 +20,6 @@ git push
 git add
 git diff
 git checkout <branch>
-git log
-git merge
+git log 
 
 
