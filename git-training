@@ -1,0 +1,26 @@
+Git Overview :
+
+1)What is Git ?
+-Git is a Centralized Code repository 
+-Distributed version-control system for tracking changes in source code during software development
+
+2)Why Git ?
+-The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository. 
+
+3)Alternatives to Git ?
+SVN (Subversion), Bitbucket, Perforce, and Mercurial are the most popular alternatives
+
+Basic Git Commands :
+Git clone
+git status
+Git branch
+Git pull
+git commit
+git push
+git add
+git diff
+git checkout <branch>
+git log
+git merge
+
+
